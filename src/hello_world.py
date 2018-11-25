@@ -7,17 +7,19 @@ x = 1
 if x == 1:
     print("x is equal to 1")
 
-# Exercise 1: Print "Hello world!" and "Goodbye World =("
+# EXERCISE 1: Print "Hello world!" and "Goodbye World =("
 
 print("Hello world!")
 print("Goodbye World =(")
 
-# Exercise 2: Define a string variable named "Asun" and print it with an if condition
+# EXERCISE 2: Define a string variable named "Asun" and print it with an if condition
+
 name = "Asun"
 if name == "Asun":
     print("Hello Asun")
 
-# Exercise 3: Print "Hello Python" using one line for each word
+# EXERCISE 3: Print "Hello Python" using one line for each word
+
 print("Hello")
 print("Python")
 

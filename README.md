@@ -1,6 +1,8 @@
-# PythonPlayground
+# Python_Playground
 
 Playground used to learn and experiment with Python.
+
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 
 ## Content
 
@@ -8,7 +10,8 @@ This table contains all the topics reviewed in this repository.
 
 | # | Topic | Code | Resources |
 | - | ----- | ---- | --------- |
-| 1 | Hello world. | ./src/helloWorld.py | [Hello World example in learnpython.org](https://www.learnpython.org/en/Hello%2C_World%21) |
+| 1 | Hello world. | ./src/hello_world.py | [Hello World example in learnpython.org](https://www.learnpython.org/en/Hello%2C_World%21) |
+| 2 | Variables and types. | ./src/variables_and_types.py | [Variables and Types example in learnpython.org](https://www.learnpython.org/en/Variables_and_Types) |
 
 
 Developed By
