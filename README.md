@@ -15,6 +15,7 @@ This table contains all the topics reviewed in this repository.
 | 3 | Lists. | ./src/lists.py | [Lists example in learnpython.org](https://www.learnpython.org/en/Lists) |
 | 4 | Basics Operations. | ./src/basics_operations.py | [Basic Operations example in learnpython.org](https://www.learnpython.org/en/Basic_Operators) |
 | 5 | String Formatting. | ./src/string_formatting.py | [String Formatting example in learnpython.org](https://www.learnpython.org/en/String_Formatting) |
+| 6 | Basics String Operations. | ./src/basic_string_operations.py | [Basic String Operations example in learnpython.org](https://www.learnpython.org/en/Basic_String_Operations) |
 
 
 Developed By
