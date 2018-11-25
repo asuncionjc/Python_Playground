@@ -14,6 +14,7 @@ This table contains all the topics reviewed in this repository.
 | 2 | Variables and types. | ./src/variables_and_types.py | [Variables and Types example in learnpython.org](https://www.learnpython.org/en/Variables_and_Types) |
 | 3 | Lists. | ./src/lists.py | [Lists example in learnpython.org](https://www.learnpython.org/en/Lists) |
 | 4 | Basics Operations. | ./src/basics_operations.py | [Basic Operations example in learnpython.org](https://www.learnpython.org/en/Basic_Operators) |
+| 5 | String Formatting. | ./src/string_formatting.py | [String Formatting example in learnpython.org](https://www.learnpython.org/en/String_Formatting) |
 
 
 Developed By
