@@ -1,8 +1,17 @@
 # Python_Playground
 
-Playground used to learn and experiment with Python.
+Playground used to learn and experiment with Python. Do you want to learn something about Python? Then, have a look at 
+this repo 🧐.
 
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
+
+## Goals
+
+The aim of this repository is to provide a basic introduction to the Python language. Some exercises are included to 
+practice with it. 
+
+Any feedback is welcome, so please feel free to ask or comment anything you want. If you are shy and do not want to
+write in the repo, I will be happy to answer you by email at asuncionjc@us.es
 
 ## Content
 
@@ -10,14 +19,14 @@ This table contains all the topics reviewed in this repository.
 
 | # | Topic | Code | Resources |
 | - | ----- | ---- | --------- |
-| 1 | Hello world | ./src/hello_world.py | [Hello World example in learnpython.org](https://www.learnpython.org/en/Hello%2C_World%21) |
-| 2 | Variables and types | ./src/variables_and_types.py | [Variables and Types example in learnpython.org](https://www.learnpython.org/en/Variables_and_Types) |
-| 3 | Lists | ./src/lists.py | [Lists example in learnpython.org](https://www.learnpython.org/en/Lists) |
-| 4 | Basics Operations | ./src/basics_operations.py | [Basic Operations example in learnpython.org](https://www.learnpython.org/en/Basic_Operators) |
-| 5 | String Formatting | ./src/string_formatting.py | [String Formatting example in learnpython.org](https://www.learnpython.org/en/String_Formatting) |
-| 6 | Basics String Operations | ./src/basic_string_operations.py | [Basic String Operations example in learnpython.org](https://www.learnpython.org/en/Basic_String_Operations) |
-| 7 | Conditions | ./src/conditions.py | [Conditions example in learnpython.org](https://www.learnpython.org/en/Conditions) |
-| 8 | Loops | ./src/loops.py | [Loops example in learnpython.org](https://www.learnpython.org/en/Loops) |
+| 1 | Hello world | [Hello World](./src/hello_world.py) | [Hello World example in learnpython.org](https://www.learnpython.org/en/Hello%2C_World%21) |
+| 2 | Variables and types | [Variables and Types](./src/variables_and_types.py) | [Variables and Types example in learnpython.org](https://www.learnpython.org/en/Variables_and_Types) |
+| 3 | Lists | [Lists](./src/lists.py) | [Lists example in learnpython.org](https://www.learnpython.org/en/Lists) |
+| 4 | Basic Operations | [Basic Operations](./src/basic_operations.py) | [Basic Operations example in learnpython.org](https://www.learnpython.org/en/Basic_Operators) |
+| 5 | String Formatting | [String Formatting](./src/string_formatting.py) | [String Formatting example in learnpython.org](https://www.learnpython.org/en/String_Formatting) |
+| 6 | Basics String Operations | [Basic String Operations](./src/basic_string_operations.py) | [Basic String Operations example in learnpython.org](https://www.learnpython.org/en/Basic_String_Operations) |
+| 7 | Conditions | [Conditions](./src/conditions.py) | [Conditions example in learnpython.org](https://www.learnpython.org/en/Conditions) |
+| 8 | Loops | [Loops](./src/loops.py) | [Loops example in learnpython.org](https://www.learnpython.org/en/Loops) |
 
 
 Developed By
