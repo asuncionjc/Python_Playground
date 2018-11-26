@@ -8,10 +8,10 @@ this repo 🧐.
 ## Goals
 
 The aim of this repository is to provide a basic introduction to the Python language. Some exercises are included to 
-practice with it. 
+practice with it 📝 . 
 
-Any feedback is welcome, so please feel free to ask or comment anything you want. If you are shy and do not want to
-write in the repo, I will be happy to answer you by email at asuncionjc@us.es
+Any feedback is welcome, 😄 so please feel free to ask or comment anything you want. If you are shy 😳 and do not want to
+write in the repo, I will be happy to answer you by email at asuncionjc@us.es 👩🏻‍💻 .
 
 ## Content
 
@@ -33,6 +33,10 @@ Developed By
 ------------
 
 * Asunción Jiménez-Cordero - <asuncionjc@us.es>
+
+<a href="https://www.researchgate.net/profile/Asuncion_Jimenez-Cordero">
+  <img alt="Follow me on ResearchGate" src="https://1.bp.blogspot.com/-jz1remm4weY/WK86heRgepI/AAAAAAAACrU/APGaq-EpMakpsh-mZw5eQIyNpA_DN1dBwCLcB/s1600/researchgate_.jpg" height="60" width="60"/>
+</a>
 
 License
 -------
