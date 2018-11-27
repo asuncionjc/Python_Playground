@@ -27,6 +27,7 @@ This table contains all the topics reviewed in this repository.
 | 6 | Basics String Operations | [Basic String Operations](./src/basic_string_operations.py) | [Basic String Operations example in learnpython.org](https://www.learnpython.org/en/Basic_String_Operations) |
 | 7 | Conditions | [Conditions](./src/conditions.py) | [Conditions example in learnpython.org](https://www.learnpython.org/en/Conditions) |
 | 8 | Loops | [Loops](./src/loops.py) | [Loops example in learnpython.org](https://www.learnpython.org/en/Loops) |
+| 9 | Functions (included FizzBuzz Test) | [Functions](./src/functions.py) | [Functions example in learnpython.org](https://www.learnpython.org/en/Functions) |
 
 
 Developed By
