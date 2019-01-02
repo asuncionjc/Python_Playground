@@ -39,6 +39,10 @@ Developed By
   <img alt="Follow me on ResearchGate" src="https://1.bp.blogspot.com/-jz1remm4weY/WK86heRgepI/AAAAAAAACrU/APGaq-EpMakpsh-mZw5eQIyNpA_DN1dBwCLcB/s1600/researchgate_.jpg" height="60" width="60"/>
 </a>
 
+<a href="https://scholar.google.es/citations?user=JegcEYwAAAAJ&hl=es&oi=ao">
+  <img alt="Follow me on Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUfpGKX9zs9WpaNw_qSqwU3Q3qeqLrIV0cXHsJxxgPkVaVqze" height="60" width="60"/>
+</a>
+
 License
 -------
 
