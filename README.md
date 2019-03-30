@@ -30,6 +30,7 @@ This table contains all the topics reviewed in this repository.
 | 9 | Functions (included FizzBuzz Test) | [Functions](./src/functions.py) | [Functions example in learnpython.org](https://www.learnpython.org/en/Functions) |
 | 10 | Fibonacci Exercise | [Fibonnacci](./src/Fibonacci_succession.py) |  |
 | 11 | Classes and Objects | [Classes and Objects](./src/classes_and_objects.py) | [Classes and objects example in learnpython.org](https://www.learnpython.org/en/Classes_and_Objects) |
+| 12 | Dictionaries | [Dictionaries](./src/dictionaries.py) | [Dictionaries example in learnpython.org](https://www.learnpython.org/en/Dictionaries) |
 
 
 
