@@ -29,6 +29,8 @@ This table contains all the topics reviewed in this repository.
 | 8 | Loops | [Loops](./src/loops.py) | [Loops example in learnpython.org](https://www.learnpython.org/en/Loops) |
 | 9 | Functions (included FizzBuzz Test) | [Functions](./src/functions.py) | [Functions example in learnpython.org](https://www.learnpython.org/en/Functions) |
 | 10 | Fibonacci Exercise | [Fibonnacci](./src/Fibonacci_succession.py) |  |
+| 11 | Classes and Objects | [Classes and Objects](./src/classes_and_objects.py) |  |
+
 
 
 Developed By
